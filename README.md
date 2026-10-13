@@ -1,4 +1,4 @@
-# Hotel Reservation Analysis Dashboard
+# Hotel Reservation Analysis Dashboard by Jaydeep
 
 ## **Introduction**
 
@@ -43,20 +43,9 @@ By leveraging these insights, Platinum Oasis can enhance operational efficiency,
 
 <br>
 
-## **Explore the Project**
-- **PowerPoint Presentation**: [View Presentation](https://github.com/angelaboo/hotel-reservation-analysis-dashboard/blob/main/Hotel%20Reservation%20Analysis.pdf)  
-  A detailed walkthrough of the dashboard and key insights.
-- **Kaggle Notebook**: [View Notebook](https://www.kaggle.com/code/xiaotingb/hotel-reservation-analysis-power-bi)  
-  Explore the notebook version of the analysis on Kaggle.
-- **GitHub Repository**: [View Repository](https://github.com/angelaboo/hotel-reservation-analysis-dashboard)  
-  Access the full repository for this project.
 
 <br>
 
 ## **Author**
-**Angela Boo**  
-- **GitHub**: [GitHub](https://github.com/angelaboo)  
-- **Kaggle**: [Kaggle](https://www.kaggle.com/xiaotingb)  
-- **LinkedIn**: [Connect with Me](https://www.linkedin.com/in/xxtt)  
-
-Feel free to connect and explore my work!
+**Jaydeep singh**  
+!
